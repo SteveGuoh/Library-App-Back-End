@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+### SSL key and certificates
+luv2code-keystore.p12
+
+luv2code-keystore

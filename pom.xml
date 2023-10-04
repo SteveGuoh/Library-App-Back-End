@@ -8,7 +8,7 @@
 		<version>2.7.16</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.luv2code</groupId>
+	<groupId>com.stevebooks</groupId>
 	<artifactId>spring-boot-library</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-library</name>
@@ -30,6 +30,12 @@
 			<groupId>com.okta.spring</groupId>
 			<artifactId>okta-spring-boot-starter</artifactId>
 			<version>2.1.6</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.stripe</groupId>
+			<artifactId>stripe-java</artifactId>
+			<version>22.0.0</version>
 		</dependency>
 
 		<dependency>
